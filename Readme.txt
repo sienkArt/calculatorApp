@@ -1,5 +1,6 @@
- ----> Instructions to Run the Program <----
+## Instructions to Run the Program
 
+**Requirements**: Java 8 or later version is required to run the program.
 
 1. If the file is in the same directory as the JAR file:
 
@@ -8,7 +9,6 @@ Open the command line interface (CLI) and navigate to the directory containing t
 java -jar calculator.jar filename
 
 Replace filename with the name of your TXT file without the extension e.g. "java -jar calculator.jar test_file"
-
 
 
 2. If the file is in a different directory:
